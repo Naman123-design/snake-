@@ -48,7 +48,7 @@ class Snake {
     if(x == pos.x && y == pos.y) {
       this.grow();
       return true;
-    }s
+    }
     return false;
   }
   
